@@ -1,0 +1,1 @@
+This project is designed to create DFS fantasy basketball lineups. All of the data required to run the application is already in the files, though you would need updated data to run it on a new days projections. The current projections are for all games played on May 8, 2021. Running the application will return a short list of the best 3-person teams. 
